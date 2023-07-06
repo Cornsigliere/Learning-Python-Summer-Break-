@@ -10,4 +10,4 @@ Key Contents:
 
 By creating this repository, I aim to showcase my exploration of Python fundamentals and provide a resource for fellow learners interested in building a strong foundation in Python programming. Whether you are a beginner starting with Python or an intermediate learner looking to solidify your understanding, this repository offers a curated collection of projects, exercises, and resources.
 
-Let this repository inspire and guide you as you strengthen your Python skills! <33
+Let this repository inspire and guide you as you strengthen your Python skills! <333
